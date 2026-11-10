@@ -142,4 +142,4 @@ This repository serves as the official landing page for ADInstruments PVLoop. Th
 **Get the most recent version of ADInstruments PVLoop today!**
 
 ---
-**Last updated:** 2026-11-09 07:32:40 UTC
+**Last updated:** 2026-11-10 01:50:35 UTC
